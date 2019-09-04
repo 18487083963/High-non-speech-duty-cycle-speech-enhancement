@@ -40,7 +40,7 @@ test:to enhance the reconstruct audio segment by prior feature stream.
 
 # 4、data
 
-serialized_train_data:train data for GAN
+serialized_train_data:train data for GAN(account for the restrict,there just give some demo,more data in there:https://www.kaggle.com/lanyangyang123/serialized-train-data)
 
 unusuall_test（-5dB）/unusuall_clean  are the pairs of test data
 
